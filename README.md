@@ -1,5 +1,5 @@
 # WP-Baca-Juga
-Menampilkan rekomendasi "Baca Juga" setiap 2 paragraf dengan font mengikuti tema.
+Menampilkan rekomendasi "Baca Juga" setiap 2 paragraf dengan font mengikuti tema dan kategory
 
 
 Silahkan Sesuaikan Sendiri CSS 
