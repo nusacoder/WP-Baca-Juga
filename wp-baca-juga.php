@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Baca Juga Berulang per 2 Paragraf
-Description: Menampilkan rekomendasi "Baca Juga" setiap 2 paragraf dengan font mengikuti tema.
+Plugin Name: Baca Juga
+Description: Menampilkan rekomendasi "Baca Juga" setiap 2 paragraf dengan font mengikuti tema dan kategory.
 Version: 1.3
 Author: NusaCloudHost.Com
 */
