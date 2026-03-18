@@ -21,7 +21,7 @@ Plugin ini bekerja dengan memindai konten artikel dan menyisipkan kotak "Baca Ju
 4. **Integrasi WP_Query:** Memanggil `get_posts` dengan parameter kategori untuk mendapatkan maksimal 10 data artikel terkait.
 
 ## 🚀 Instalasi
-1. Unduh atau salin file `baca-juga.php`.
+1. Unduh atau salin file `wp-baca-juga.php`.
 2. Unggah file tersebut ke direktori `/wp-content/plugins/baca-juga/`.
 3. Aktifkan plugin melalui menu **Plugins** di Dashboard WordPress Anda.
 4. Plugin akan langsung bekerja pada semua artikel tunggal (single post).
